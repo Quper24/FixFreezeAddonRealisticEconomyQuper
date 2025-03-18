@@ -1,0 +1,24 @@
+[blue]Fix Freeze Addon Realistic Economy by Quper
+
+[green]English:
+[normal]
+Some users experience freezes when playing with their own trailers and a set of maps. This modification fixes this problem.
+This mod reduces the amount of goods generated in the game world. Goods are generated once per game day.
+If you start a new game with this mod, it will work immediately. If you continue saving game, I recommend entering "g_force_economy_reset 1" in the console, saving, and then loading that save.
+Use this mod if you have both of the following:
+1. You have the [red]"Realistic Economy"[normal] by Quper modification installed.
+2. You play with your own trailer.
+3. You experience freezes (slowdowns, stuttering).
+P.S. If there are freezes in the game, but you are not using the "Realistic Economy" mod from Quper, you should install the original [blue]"Cargo Market Stutter Fix" [normal] mod, you do not need this one.
+
+
+[green]RUS
+[normal]
+Некоторые пользователи сталкиваются с зависаниями при игре со своими трейлерами и набором карт. Данная модификация устраняет эту проблему.
+Этот мод уменьшает количество товаров, генерируемых в игровом мире. Товары генерируются один раз за игровой день.
+Если вы начнете новую игру с этим модом, он заработает немедленно. Если вы продолжаете прошлое сохранение, я рекомендую ввести "g_force_economy_reset 1" в консоли, сохранить, а затем загрузить это сохранение.
+Используйте этот мод, если у вас есть оба следующих параметра:
+1. У вас установлена модификация [red]"Realistic Economy"[normal] от Quper.
+2. Вы играете со своим собственным трейлером.
+3. У вас возникают зависания (замедления, заикания).
+P.S. Если в игре есть зависания, но вы не используете мод "Реалистичная экономика" от Quper, вам  следует установить оригинальный мод "Исправление заикания на рынке грузовых перевозок", этот вам не нужен.
