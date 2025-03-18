@@ -20,8 +20,8 @@ economy_data : economy.data.storage
 
 	abandoned_job_fine: 250			
 
-	cargo_damage_cost: 5.0 			# -25 for 1% of damage 
-	cargo_damage_cost_factor: 0.04 			# -10% total cost penalty per 1% of damage
+	cargo_damage_cost: 5.0 			# -5 for 1% of damage 
+	cargo_damage_cost_factor: 0.04 			# -4% total cost penalty per 1% of damage
 
 	late_delivery_max_overtime[0]: 1440		# 1 days for "easy" deliveries
 	late_delivery_max_overtime[1]: 360		# 6 hours for "normal" deliveries
@@ -45,9 +45,9 @@ economy_data : economy.data.storage
 
 	hurry_up_timer: 114				# how long the hurry up music will play (in game minutes)
 
-	no_cargo_prob:	0.05				# 20% prob. of empty cargo slot
-	cargo_validity_min: 3600				# 3 hours
-	cargo_validity_max: 7200			
+	no_cargo_prob:	0.99		# 99% prob. of empty cargo slot
+	cargo_validity_min: 1800		# 3 hours
+	cargo_validity_max: 3600	# 30 hours
 
 	# assistance service
 
@@ -248,7 +248,7 @@ economy_data : economy.data.storage
 	currency_ratio[]: 0.96
 	currency_sign1[]: ""
 	currency_sign2[]: ""
-	currency_sign3[]: " Fr"
+	currency_sign3[]: " CHF"
 
 	currency_code[]: "CZK"
 	currency_ratio[]: 25.04
