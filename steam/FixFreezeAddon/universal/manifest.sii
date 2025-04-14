@@ -6,13 +6,9 @@ mod_package : .package_name
 	# Package version can be any string with any length.
 	package_version: "1.54.1"
 
-	# Display name can be any string with any length.
-	display_name: "Fix Freeze Addon Realistic Economy by Quper"
-
 	# Author can be any string with any length.
 	author: "Quper"
 
-  compatible_versions[]: "1.54.*"
 
 	# Categories is an array of strings.
 	category[]: "other"
